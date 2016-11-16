@@ -8,7 +8,7 @@
 angular.module('MagicTelecomAPILib',[]).factory('Configuration', function() {
     return {
         //The base Uri for API calls
-        BASEURI : "https://api.magictelecom.com/app_dev.php",
+        BASEURI : "https://api.magictelecom.com",
 
         //API Token
         xAuthToken : "123abcqwerty"
